@@ -14,7 +14,7 @@ baseurl:          /
 
 author:
   name:           'Gerald H. Spencer'
-  url:            http://geraldhspencer.com
+  url:            http://geethree.github.io
 
 paginate:         5
 plugins: ['jekyll-paginate']
