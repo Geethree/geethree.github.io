@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Gerald Spencer
+tagline:          'Engineer | Artist'
+description:     'Work in progress' 
+url:              http://geethree.github.io
+baseurl:          /
+
+author:
+  name:           'Gerald H. Spencer'
+  url:            http://geethree.github.io
+
+paginate:         5
+plugins: ['jekyll-paginate']
+
+# Custom vars
+version:          0.0.2
+
+github:
+  repo:           https://github.com/Geethree
