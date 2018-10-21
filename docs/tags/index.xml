@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2017 13:18:59 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2016 12:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Afrikaburn</title>
+      <link>/tags/afrikaburn/</link>
+      <pubDate>Tue, 19 Apr 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/afrikaburn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big Art</title>
       <link>/tags/big-art/</link>
-      <pubDate>Fri, 20 Oct 2017 13:18:59 -0700</pubDate>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
       <guid>/tags/big-art/</guid>
       <description></description>
@@ -30,11 +39,38 @@
     </item>
     
     <item>
+      <title>Brls</title>
+      <link>/tags/brls/</link>
+      <pubDate>Tue, 30 Aug 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/brls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Burning Man</title>
       <link>/tags/burning-man/</link>
-      <pubDate>Fri, 20 Oct 2017 13:18:59 -0700</pubDate>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
       <guid>/tags/burning-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edc</title>
+      <link>/tags/edc/</link>
+      <pubDate>Fri, 29 Jun 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/edc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flux Foundation</title>
+      <link>/tags/flux-foundation/</link>
+      <pubDate>Fri, 29 Jun 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/flux-foundation/</guid>
       <description></description>
     </item>
     
@@ -44,6 +80,15 @@
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
       <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temple</title>
+      <link>/tags/temple/</link>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/temple/</guid>
       <description></description>
     </item>
     

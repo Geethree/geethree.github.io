@@ -6,18 +6,54 @@
     <description>Recent content in Big Art on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2017 13:18:59 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 12:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/big-art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test project</title>
-      <link>/works/hello-work/</link>
-      <pubDate>Fri, 20 Oct 2017 13:18:59 -0700</pubDate>
+      <title>2018 Burning Man - Temple Galaxia</title>
+      <link>/works/galaxia/</link>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
-      <guid>/works/hello-work/</guid>
-      <description>Big dumb art project 2018</description>
+      <guid>/works/galaxia/</guid>
+      <description>Galaxy of triangles</description>
+    </item>
+    
+    <item>
+      <title>2016 Electric Dasiey Carnival - Fishbug</title>
+      <link>/works/fish_bug_edc_2016/</link>
+      <pubDate>Fri, 29 Jun 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/works/fish_bug_edc_2016/</guid>
+      <description>Half fish, half bug</description>
+    </item>
+    
+    <item>
+      <title>2017 Burning Man - The Temple</title>
+      <link>/works/temple_2017/</link>
+      <pubDate>Wed, 30 Aug 2017 12:00:00 -0700</pubDate>
+      
+      <guid>/works/temple_2017/</guid>
+      <description>Light houses</description>
+    </item>
+    
+    <item>
+      <title>2016 Burning Man - Black Rock Lighthouse Service</title>
+      <link>/works/black_rock_lighthouse_service/</link>
+      <pubDate>Tue, 30 Aug 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/works/black_rock_lighthouse_service/</guid>
+      <description>Light houses</description>
+    </item>
+    
+    <item>
+      <title>2016 AfrikaBurn - Lighthouse Affair</title>
+      <link>/works/lighthouse_affair/</link>
+      <pubDate>Tue, 19 Apr 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/works/lighthouse_affair/</guid>
+      <description>When the swiss and americans collide</description>
     </item>
     
   </channel>

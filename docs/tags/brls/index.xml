@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brls on Gerald</title>
+    <link>/tags/brls/</link>
+    <description>Recent content in Brls on Gerald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Aug 2016 12:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/brls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016 Burning Man - Black Rock Lighthouse Service</title>
+      <link>/works/black_rock_lighthouse_service/</link>
+      <pubDate>Tue, 30 Aug 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/works/black_rock_lighthouse_service/</guid>
+      <description>Light houses</description>
+    </item>
+    
+    <item>
+      <title>2016 AfrikaBurn - Lighthouse Affair</title>
+      <link>/works/lighthouse_affair/</link>
+      <pubDate>Tue, 19 Apr 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/works/lighthouse_affair/</guid>
+      <description>When the swiss and americans collide</description>
+    </item>
+    
+  </channel>
+</rss>
