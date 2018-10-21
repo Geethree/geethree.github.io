@@ -12,20 +12,38 @@
     
     
     <item>
+      <title>Big Art</title>
+      <link>/tags/big-art/</link>
+      <pubDate>Fri, 20 Oct 2017 13:18:59 -0700</pubDate>
+      
+      <guid>/tags/big-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Fri, 20 Oct 2017 13:18:59 -0700</pubDate>
+      <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
       <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Story</title>
-      <link>/tags/story/</link>
+      <title>Burning Man</title>
+      <link>/tags/burning-man/</link>
       <pubDate>Fri, 20 Oct 2017 13:18:59 -0700</pubDate>
       
-      <guid>/tags/story/</guid>
+      <guid>/tags/burning-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/tags/software/</link>
+      <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
+      
+      <guid>/tags/software/</guid>
       <description></description>
     </item>
     
