@@ -26,3 +26,7 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/works"
     text = "works"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
