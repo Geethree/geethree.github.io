@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/physical/hello-world/</loc>
-    <lastmod>2018-10-20T13:18:59-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/works/hello-world/</loc>
-    <lastmod>2018-10-20T13:18:59-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/physical/</loc>
-    <lastmod>2018-10-20T12:21:57-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/works/</loc>
     <lastmod>2018-10-20T12:21:57-05:00</lastmod>
   </url>
@@ -28,8 +13,13 @@
   </url>
   
   <url>
+    <loc>/works/hello-world/</loc>
+    <lastmod>2017-10-20T13:18:59-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2018-10-20T13:18:59-07:00</lastmod>
+    <lastmod>2017-10-20T13:18:59-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,19 +30,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-20T13:18:59-07:00</lastmod>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/story/</loc>
-    <lastmod>2018-10-20T13:18:59-07:00</lastmod>
+    <lastmod>2017-10-20T13:18:59-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-10-20T13:18:59-07:00</lastmod>
+    <lastmod>2017-10-20T13:18:59-07:00</lastmod>
     <priority>0</priority>
   </url>
   
