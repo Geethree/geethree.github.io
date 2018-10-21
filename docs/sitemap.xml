@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>geraldhspencer.com/digital/hello-world/</loc>
+    <loc>geraldhspencer.com/posts/hello-world/</loc>
     <lastmod>2018-10-20T13:18:59-07:00</lastmod>
   </url>
   
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>geraldhspencer.com/about/</loc>
-    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+    <loc>geraldhspencer.com/posts/</loc>
+    <lastmod>2018-10-20T12:21:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>geraldhspencer.com/digital/</loc>
-    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+    <loc>geraldhspencer.com/about/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url>
   
   <url>
@@ -42,10 +42,6 @@
     <loc>geraldhspencer.com/</loc>
     <lastmod>2018-10-20T13:18:59-07:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>geraldhspencer.com/gallery/</loc>
   </url>
   
   <url>
