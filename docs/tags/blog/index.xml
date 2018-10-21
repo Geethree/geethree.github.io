@@ -22,10 +22,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>/works/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>/works/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     
