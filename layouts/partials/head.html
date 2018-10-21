@@ -1,0 +1,23 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<!-- Character max 160-->
+<meta name="description" content="{{.Site.Params.description}}">
+<link rel="shortcut icon" href="{{.Site.Params.favicon | default "sam.ico" | absURL }}" id="favicon">
+<link rel="stylesheet" href="{{ "css/style.css" | absURL}}">
+<!-- Google fonts-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+{{ if .Site.GoogleAnalytics }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{.Site.GoogleAnalytics}}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{.Site.GoogleAnalytics}}');
+</script>
+{{ end }}
