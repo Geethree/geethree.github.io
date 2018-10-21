@@ -25,4 +25,4 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/works"
-    text = "Works"
+    text = "works"
