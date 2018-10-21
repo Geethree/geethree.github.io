@@ -1,4 +1,4 @@
-baseurl                 = "www.geraldhspencer.com/"
+baseurl                 = "/"
 publishDir              = "docs"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"

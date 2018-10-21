@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Story on Gerald</title>
-    <link>www.geraldhspencer.com/tags/story/</link>
+    <link>/tags/story/</link>
     <description>Recent content in Story on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Oct 2018 13:18:59 -0700</lastBuildDate>
     
-	<atom:link href="www.geraldhspencer.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>www.geraldhspencer.com/physical/hello-world/</link>
+      <link>/physical/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>www.geraldhspencer.com/physical/hello-world/</guid>
+      <guid>/physical/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>www.geraldhspencer.com/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>www.geraldhspencer.com/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     

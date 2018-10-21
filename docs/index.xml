@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gerald</title>
-    <link>www.geraldhspencer.com/</link>
+    <link>/</link>
     <description>Recent content on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Oct 2018 13:18:59 -0700</lastBuildDate>
     
-	<atom:link href="www.geraldhspencer.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>www.geraldhspencer.com/physical/hello-world/</link>
+      <link>/physical/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>www.geraldhspencer.com/physical/hello-world/</guid>
+      <guid>/physical/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>www.geraldhspencer.com/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>www.geraldhspencer.com/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>www.geraldhspencer.com/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>www.geraldhspencer.com/about/</guid>
+      <guid>/about/</guid>
       <description>Hello, I&amp;rsquo;m Gerald.</description>
     </item>
     
