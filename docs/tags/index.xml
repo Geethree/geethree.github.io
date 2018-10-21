@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gerald</title>
-    <link>geraldhspencer.com/tags/</link>
+    <link>www.geraldhspencer.com/tags/</link>
     <description>Recent content in Tags on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Oct 2018 13:18:59 -0700</lastBuildDate>
     
-	<atom:link href="geraldhspencer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.geraldhspencer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>geraldhspencer.com/tags/blog/</link>
+      <link>www.geraldhspencer.com/tags/blog/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>geraldhspencer.com/tags/blog/</guid>
+      <guid>www.geraldhspencer.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>geraldhspencer.com/tags/story/</link>
+      <link>www.geraldhspencer.com/tags/story/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>geraldhspencer.com/tags/story/</guid>
+      <guid>www.geraldhspencer.com/tags/story/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Gerald</title>
-    <link>geraldhspencer.com/tags/blog/</link>
+    <link>www.geraldhspencer.com/tags/blog/</link>
     <description>Recent content in Blog on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Oct 2018 13:18:59 -0700</lastBuildDate>
     
-	<atom:link href="geraldhspencer.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.geraldhspencer.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>geraldhspencer.com/physical/hello-world/</link>
+      <link>www.geraldhspencer.com/physical/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>geraldhspencer.com/physical/hello-world/</guid>
+      <guid>www.geraldhspencer.com/physical/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>geraldhspencer.com/posts/hello-world/</link>
+      <link>www.geraldhspencer.com/posts/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>geraldhspencer.com/posts/hello-world/</guid>
+      <guid>www.geraldhspencer.com/posts/hello-world/</guid>
       <description>Foo bar</description>
     </item>
     
