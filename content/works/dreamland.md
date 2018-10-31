@@ -3,7 +3,8 @@ title: "2015 Burning Man - Dreamland"
 date: 2015-08-30T12:00:00-07:00
 showDate: false
 draft: false
-tags: ["burning man","Flux Foundation"]
+tags: ["Burning Man","Flux Foundation"]
 ---
 
-Dreamland 2015
+![Duncan-1](/gallery/images/dreamland_1_duncan_co.jpg)
+*Photo: [Duncan Rawlinson](https://duncan.co/)*

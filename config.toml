@@ -15,7 +15,7 @@ pygmentsCodefences      = true
     homepage            = "main"
     galleryFolder       = "images/"
     clickablePhotos     = false
-    smallPreviewImages   = true
+    smallPreviewImages   = false
     smallImagesSubfolder = "small/"
     footerText          = "www.geraldhspencer.com"
 
@@ -30,3 +30,7 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/posts"
     text = "posts"
+
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "gallery"
