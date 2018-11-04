@@ -63,7 +63,7 @@ commit:
 	git commit -am "$commit"
 
 push:
-	read -p "Push to $() [y|n]? " push
+	read -p "Push to master [y|n]? " push
 	case "$push" in
 		y|Y ) git push origin master;;
 	    n|N ) exit;;
