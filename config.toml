@@ -6,7 +6,7 @@ isMultilingual          = true
 title                   = "Gerald"
 pygmentsStyle           = "monokai"               
 pygmentsCodefences      = true
-# googleAnalytics         = ""             # Tracking code, eg. "UA-111111111-1"
+googleAnalytics         = "UA-128762731-1"
 
 [params]
     dateform            = "Mon Jan 02, 2006"
