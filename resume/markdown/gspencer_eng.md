@@ -52,7 +52,7 @@ Project 1
 Project 2
 :   Flux [flux]
 
-Mechanics
+Engineering Software
 :   **servos:** Working with sserrrvoces
 
 Programming languages

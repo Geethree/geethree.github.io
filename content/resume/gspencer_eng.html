@@ -18,6 +18,7 @@
   
   /* Whole document */
   body {
+      /*font-family: "didact Gothic", sans-serif;*/
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       max-width: 800px;
       margin: auto;
@@ -32,31 +33,21 @@
       text-align:center;
       margin-bottom:15px;
   }
-  h1:hover {
-      background-color: #757575;
-      color: #FFFFFF;
-      text-shadow: 1px 1px 1px #333;
-  }
   
   /* Titles of categories */
   h2 {
       /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-      color: #397249;
+      color: #39424E;
   }
   /* There is a bar just before each category */
   h2:before {
       content: "";
       display: inline-block;
       margin-right:1%;
-      width: 16%;
+      width: 14%;
       height: 10px;
       /* This is called "rulecolor" in the ConTeXt stylesheet. */
-      background-color: #9CB770;
-  }
-  h2:hover {
-      background-color: #397249;
-      color: #FFFFFF;
-      text-shadow: 1px 1px 1px #333;
+      background-color: #757575;
   }
   
   /* Definitions */
@@ -64,7 +55,6 @@
       float: left;
       clear: left;
       width: 17%;
-      /*font-weight: bold;*/
   }
   dd {
       margin-left: 17%;
@@ -82,13 +72,7 @@
   /* Links */
   a {
       text-decoration: none;
-      color: #397249;
-  }
-  a:hover, a:active {
-      background-color: #397249;
-      color: #FFFFFF;
-      text-decoration: none;
-      text-shadow: 1px 1px 1px #333;
+      color: darken($white, 20%);
   }
   
   /* Horizontal separators */
@@ -142,7 +126,7 @@ To everywhere</p>
 <dt>Project 2</dt>
 <dd>Flux <a href="www.fluxfoundation.org">flux</a>
 </dd>
-<dt>Mechanics</dt>
+<dt>Engineering Software</dt>
 <dd><strong>servos:</strong> Working with sserrrvoces
 </dd>
 <dt>Programming languages</dt>
