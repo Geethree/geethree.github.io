@@ -64,10 +64,6 @@ commit:
 	git commit -am "$commit"
 
 push:
-	read -p "Push to master [y|n]? " push
-	case $$push in
-		y|Y ) git push origin master;;
-	    n|N ) exit;;
-	esac
+	git push origin master
 
 press: generate commit push
