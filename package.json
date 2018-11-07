@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build:sass": "node-sass --output-style compressed -o static/css sass/",
+    "build:sass": "node-sass --output-style nested -o static/css sass/",
     "autoprefixer": "postcss static/css/*.css --use autoprefixer -d static/css",
     "build": "npm run build:sass && npm run autoprefixer",
     "watch": "chokidar 'sass/*.sass' -c 'npm run build:sass && npm run autoprefixer'"
