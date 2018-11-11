@@ -45,7 +45,7 @@
 
         {{ $files := readDir $folder }}
 
-        {{ range shuffle $files }}
+        {{ range $files }}
             {{ if not .IsDir }}
             <div>
                 <img src="{{ $src | absURL }}{{ .Name }}" alt="{{ .Name }}" />
