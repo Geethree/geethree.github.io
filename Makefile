@@ -1,6 +1,8 @@
 SHELL := /bin/bash
 
-generate: generate_css generate_resume generate_hugo
+generate_all: generate_css generate_resume generate_hugo
+
+generate_web: generate_css generate_hugo
 
 generate_css:
 	npm install
@@ -58,7 +60,7 @@ watch:
 # Version control helpers #
 ###########################
 commit:
-	git add content/ docs/ resume/
+	git add .
 	git status
 	read -p "Enter commit message: " commit
 	git commit -am "$commit"
@@ -66,4 +68,5 @@ commit:
 push:
 	git push origin master
 
-press: generate commit push
+press_all: generate_all commit push
+press_web: generate_web commit push
