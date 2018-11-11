@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>2016 Electric Dasiey Carnival - Fishbug</title>
-      <link>/works/fish_bug_edc_2016/</link>
-      <pubDate>Fri, 29 Jun 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/works/fish_bug_edc_2016/</guid>
-      <description>Half fish, half bug</description>
-    </item>
-    
-    <item>
       <title>2017 Burning Man - The Temple</title>
       <link>/works/temple_2017/</link>
       <pubDate>Wed, 30 Aug 2017 12:00:00 -0700</pubDate>
@@ -45,6 +36,16 @@
       
       <guid>/works/black_rock_lighthouse_service/</guid>
       <description>Light houses</description>
+    </item>
+    
+    <item>
+      <title>2016 Electric Dasiey Carnival - Fishbug</title>
+      <link>/works/fish_bug_edc_2016/</link>
+      <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/works/fish_bug_edc_2016/</guid>
+      <description>Half fish, half bug, fiberglass and a whole lot of steel 
+Involvement  Lighting Design  Philips color kinetc lights were used to highlight Fishbug&amp;rsquo;s features. A custom python wrapper was used to control the lights via OSC messages were read from the mapping software to tigger color changes in sync with the local environment.  Spherical Projection Mapping  My first chance to play with projection mapping! Two projectors were used with HeavyM to map the inside of Fishbug&amp;rsquo;s fiberglass head.</description>
     </item>
     
     <item>

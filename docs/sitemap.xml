@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>/works/fish_bug_edc_2016/</loc>
-    <lastmod>2018-06-29T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url>
@@ -45,6 +40,11 @@
   <url>
     <loc>/works/black_rock_lighthouse_service/</loc>
     <lastmod>2016-08-30T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/works/fish_bug_edc_2016/</loc>
+    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -102,13 +102,13 @@
   
   <url>
     <loc>/tags/edc/</loc>
-    <lastmod>2018-06-29T12:00:00-07:00</lastmod>
+    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/flux-foundation/</loc>
-    <lastmod>2018-06-29T12:00:00-07:00</lastmod>
+    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
