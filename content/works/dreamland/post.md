@@ -6,7 +6,7 @@ draft: false
 tags: ["Burning Man","Flux Foundation"]
 ---
 *A whimsical experience of vivid colors, dazzling light and flames transport participants to the world of spectacle and the carnivalesque.*
-![Duncan-1](/gallery/images/dreamland_1_duncan_co.jpg)
+![Duncan-1](../images/dreamland_1_duncan_co.jpg)
 *Photo: [Duncan Rawlinson](https://duncan.co/)* 
 
 <iframe src="https://player.vimeo.com/video/141555457" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -6,5 +6,5 @@ draft: false
 tags: ["Burning Man","big art", "Temple"]
 ---
 
-![](/gallery/images/galaxia_1_jamen_percy.png)
+![](../images/galaxia_1_jamen_percy.png)
 *Photo: [Jamen Percy](http://www.jamenpercy.com/)*

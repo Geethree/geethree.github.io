@@ -7,7 +7,7 @@ tags: ["Afrikaburn","big art", "brls"]
 ---
 
 *When the swiss and americans collide and decide to throw down in Tankwa Town*
-![AfrikaBurn](/gallery/images/afrikaburn_pano.jpg)
+![AfrikaBurn](../images/afrikaburn_pano.jpg)
 
 ## Involvement
 - Electrical Design

@@ -7,7 +7,7 @@ tags: ["edc","big art", "Flux Foundation"]
 ---
 
 *Half fish, half bug, fiberglass and a whole lot of steel*
-![Fishbug](/gallery/images/fishbug_edc_1.jpg)
+![Fishbug](../images/fishbug_edc_1.jpg)
 <iframe width="500" height="315" src="https://www.youtube.com/embed/e9wluEKMxeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="500" height="315" src="https://www.youtube.com/embed/R6Ct8u64lbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Involvement
