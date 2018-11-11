@@ -13,47 +13,47 @@
     
     <item>
       <title>2018 Burning Man - Temple Galaxia</title>
-      <link>/works/galaxia/</link>
+      <link>/works/galaxia/post/</link>
       <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
-      <guid>/works/galaxia/</guid>
+      <guid>/works/galaxia/post/</guid>
       <description>Photo: Jamen Percy</description>
     </item>
     
     <item>
       <title>2017 Burning Man - The Temple</title>
-      <link>/works/temple_2017/</link>
+      <link>/works/temple_2017/post/</link>
       <pubDate>Wed, 30 Aug 2017 12:00:00 -0700</pubDate>
       
-      <guid>/works/temple_2017/</guid>
+      <guid>/works/temple_2017/post/</guid>
       <description>Light houses</description>
     </item>
     
     <item>
       <title>2016 Burning Man - Black Rock Lighthouse Service</title>
-      <link>/works/black_rock_lighthouse_service/</link>
+      <link>/works/brls/post/</link>
       <pubDate>Tue, 30 Aug 2016 12:00:00 -0700</pubDate>
       
-      <guid>/works/black_rock_lighthouse_service/</guid>
+      <guid>/works/brls/post/</guid>
       <description>Light houses</description>
     </item>
     
     <item>
       <title>2016 Electric Dasiey Carnival - Fishbug</title>
-      <link>/works/fish_bug_edc_2016/</link>
+      <link>/works/fish_bug/post/</link>
       <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
       
-      <guid>/works/fish_bug_edc_2016/</guid>
+      <guid>/works/fish_bug/post/</guid>
       <description>Half fish, half bug, fiberglass and a whole lot of steel 
 Involvement  Lighting Design  Philips color kinetc lights were used to highlight Fishbug&amp;rsquo;s features. A custom python wrapper was used to control the lights via OSC messages were read from the mapping software to tigger color changes in sync with the local environment.  Spherical Projection Mapping  My first chance to play with projection mapping! Two projectors were used with HeavyM to map the inside of Fishbug&amp;rsquo;s fiberglass head.</description>
     </item>
     
     <item>
       <title>2016 AfrikaBurn - Lighthouse Affair</title>
-      <link>/works/lighthouse_affair/</link>
+      <link>/works/lighthouse_affair/post/</link>
       <pubDate>Tue, 19 Apr 2016 12:00:00 -0700</pubDate>
       
-      <guid>/works/lighthouse_affair/</guid>
+      <guid>/works/lighthouse_affair/post/</guid>
       <description>When the swiss and americans collide and decide to throw down in Tankwa Town Involvement  Electrical Design  Sourcing and rental of a generator Trenching plan to the structures Sound system wiring  Lighting Design  Philip&amp;rsquo;s color kinetics for each structure, all wirelessly networked, controlled from the DJ booth via custom python hooks.  Mechanical Design  Rotating lights&amp;hellip; this was Africa so sourcing things is difficult. I found some disco ball motors in Cape Town, some square mirrors and welded up a frame to connect them all together.</description>
     </item>
     
