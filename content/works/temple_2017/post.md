@@ -7,5 +7,6 @@ tags: ["burning man","big art", "temple"]
 ---
 
 ![](../images/temple_2017_1.jpg)
+*Photo: [Jamen Percy](http://www.jamenpercy.com/)*
 ![](../images/temple_2017_2.jpg)
 ![](../images/temple_2017_3.jpg)
