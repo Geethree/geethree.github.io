@@ -43,7 +43,7 @@
 
         
 <div class="section" id="content">
-    Sun Nov 11, 2018 &#183; 70 words
+    Sun Nov 11, 2018 &#183; 106 words
     
     <div class="tag-container">
         
@@ -68,16 +68,19 @@
     </div>
     
     <hr/>
-    <p>Computers and software are wonderful things, instead of remembering to:
-- Install node packages
-- Compile css
-- Generate the resume pdf
-- Compile the static hugo site
-- Add all of the changed files to the git repo
-- Insert a helpful commit message to remember the work done
-- Push the changes to master</p>
+    <p>Computers and software are wonderful things, instead of remembering to:</p>
 
-<p>I&rsquo;d rather automate that process with a <em>Makefile</em> so it happens repeatably each time.</p>
+<ol>
+<li>Ensure all node packages are installed and/or up-to-date</li>
+<li>Compile css bits</li>
+<li>Generate the resume: markdown -&gt; laTex -&gt; laTex -&gt; PDF</li>
+<li>Compile the static hugo site</li>
+<li>Add all of the changed files to the git repo</li>
+<li>Insert a helpful commit message to remember the work that was done</li>
+<li>Push the changes to master</li>
+</ol>
+
+<p>In particular, I always seem to forget step 5 and end up with missing files since everything wasn&rsquo;t appropriately staged before the commit. So lets automate that entire process with a <a href="https://www.gnu.org/software/make/"><em>Makefile</em></a> so it happens repeatably each time across all of my machines.</p>
 
 </div>
 

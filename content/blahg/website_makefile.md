@@ -7,14 +7,13 @@ tags: ["automation", "blog","software"]
 ---
 
 Computers and software are wonderful things, instead of remembering to:
-- Install node packages
-- Compile css
-- Generate the resume pdf
-- Compile the static hugo site
-- Add all of the changed files to the git repo
-- Insert a helpful commit message to remember the work done
-- Push the changes to master
 
-I'd rather automate that process with a *Makefile* so it happens repeatably each time.
+1. Ensure all node packages are installed and/or up-to-date
+2. Compile css bits
+3. Generate the resume: markdown -> laTex -> laTex -> PDF
+4. Compile the static hugo site
+5. Add all of the changed files to the git repo
+6. Insert a helpful commit message to remember the work that was done
+7. Push the changes to master
 
-
+In particular, I always seem to forget step 5 and end up with missing files since everything wasn't appropriately staged before the commit. So lets automate that entire process with a [*Makefile*](https://www.gnu.org/software/make/) so it happens repeatably each time across all of my machines.
