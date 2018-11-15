@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/works/victoria_and_albert/post/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url>
@@ -74,6 +79,12 @@
   <url>
     <loc>/tags/afrikaburn/</loc>
     <lastmod>2016-04-19T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/art/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,6 +142,12 @@
   </url>
   
   <url>
+    <loc>/tags/museum/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/software/</loc>
     <lastmod>2018-11-11T12:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -145,6 +162,12 @@
   <url>
     <loc>/tags/temple/</loc>
     <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/video-wall/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   

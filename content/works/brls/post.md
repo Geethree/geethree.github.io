@@ -6,4 +6,7 @@ draft: false
 tags: ["burning man","big art", "brls"]
 ---
 
-Light houses
+![](../images/brls_1.jpg)
+![](../images/brls_2.jpg)
+![](../images/brls_3.jpg)
+![](../images/brls_4.jpg)
