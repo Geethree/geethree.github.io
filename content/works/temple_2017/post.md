@@ -6,4 +6,6 @@ draft: false
 tags: ["burning man","big art", "temple"]
 ---
 
-Light houses
+![](../images/temple_2017_1.jpg)
+![](../images/temple_2017_2.jpg)
+![](../images/temple_2017_3.jpg)
