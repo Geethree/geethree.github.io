@@ -13,11 +13,6 @@ googleAnalytics         = "UA-128762731-1"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     favicon             = "g3.ico"
     homepage            = "main"
-    galleryFolder       = "images/"
-    worksFolder         = "/works"
-    clickablePhotos     = false
-    smallPreviewImages   = false
-    smallImagesSubfolder = "small/"
     footerText          = "www.geraldhspencer.com"
 
 [[params.mainMenu]]
