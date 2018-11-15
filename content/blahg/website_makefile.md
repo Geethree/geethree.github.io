@@ -3,7 +3,7 @@ title: "Website Makefile"
 date: 2018-11-11T12:00:00-07:00
 showDate: true
 draft: false
-tags: ["automation", blog","software"]
+tags: ["automation", "blog","software"]
 ---
 
 Computers and software are wonderful things, instead of remembering to:

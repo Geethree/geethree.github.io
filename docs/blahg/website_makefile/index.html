@@ -32,20 +32,26 @@
     
     <title>
         
-        Markdown resume
+        Website Makefile
         
     </title>
 </head>
 
 <body>
     <div class="wrap">
-        <div class="section" id="title">Markdown resume</div>
+        <div class="section" id="title">Website Makefile</div>
 
         
 <div class="section" id="content">
-    Sat Nov 03, 2018 &#183; 115 words
+    Sun Nov 11, 2018 &#183; 70 words
     
     <div class="tag-container">
+        
+        <span class="tag">
+            <a href="/tags/automation">
+                automation
+            </a>
+        </span>
         
         <span class="tag">
             <a href="/tags/blog">
@@ -62,24 +68,16 @@
     </div>
     
     <hr/>
-    
+    <p>Computers and software are wonderful things, instead of remembering to:
+- Install node packages
+- Compile css
+- Generate the resume pdf
+- Compile the static hugo site
+- Add all of the changed files to the git repo
+- Insert a helpful commit message to remember the work done
+- Push the changes to master</p>
 
-<p>I&rsquo;ll be honest, I hate maintaiting my resume and CV. There is something about opening <em>your editor of choice</em> fiddling with parameters, saving as a PDF, naming the file and uploading it somewhere that requires too many steps. It sure would be nice if we could use MarkDown to generate a PDF automagically whenever I press a new version of this website.</p>
-
-<p><a href="https://pandoc.org/">Pandoc</a> and <a href="https://wiki.contextgarden.net/Main_Page">ConText</a> to the rescue!</p>
-
-<h2 id="markdown-pdf">Markdown -&gt; PDF</h2>
-
-<ul>
-<li>Pandoc is used to convert the Markdown file to a latex file</li>
-<li>ConText is then used to to convert the latex file to a pdf</li>
-</ul>
-
-<h2 id="markdown-html">Markdown -&gt; html</h2>
-
-<ul>
-<li>Pandoc and a css style sheet can convert the resume markdown file to an html page</li>
-</ul>
+<p>I&rsquo;d rather automate that process with a <em>Makefile</em> so it happens repeatably each time.</p>
 
 </div>
 
@@ -92,7 +90,7 @@
 
 
     
-        <a href="/posts">back</a>
+        <a href="/blahg">back</a>
         
             &#183;
         
@@ -113,8 +111,8 @@
             </a>
         
             &#183; 
-            <a href="/posts">
-                posts
+            <a href="/blahg">
+                blahg
             </a>
         
     
