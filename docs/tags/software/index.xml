@@ -13,20 +13,20 @@
     
     <item>
       <title>Website Makefile</title>
-      <link>/posts/website-makefile/</link>
+      <link>/blahg/website-makefile/</link>
       <pubDate>Sun, 11 Nov 2018 12:00:00 -0700</pubDate>
       
-      <guid>/posts/website-makefile/</guid>
+      <guid>/blahg/website-makefile/</guid>
       <description>Computers and software are wonderful things, instead of remembering to: - Install node packages - Compile css - Generate the resume pdf - Compile the static hugo site - Add all of the changed files to the git repo - Insert a helpful commit message to remember the work done - Push the changes to master
 I&amp;rsquo;d rather automate that process with a Makefile so it happens repeatably each time.</description>
     </item>
     
     <item>
       <title>Markdown resume</title>
-      <link>/posts/markdown_resume/</link>
+      <link>/blahg/markdown_resume/</link>
       <pubDate>Sat, 03 Nov 2018 12:18:59 -0700</pubDate>
       
-      <guid>/posts/markdown_resume/</guid>
+      <guid>/blahg/markdown_resume/</guid>
       <description> I&amp;rsquo;ll be honest, I hate maintaiting my resume and CV. There is something about opening your editor of choice fiddling with parameters, saving as a PDF, naming the file and uploading it somewhere that requires too many steps. It sure would be nice if we could use MarkDown to generate a PDF automagically whenever I press a new version of this website.
 Pandoc and ConText to the rescue!
 Markdown -&amp;gt; PDF  Pandoc is used to convert the Markdown file to a latex file ConText is then used to to convert the latex file to a pdf  Markdown -&amp;gt; html  Pandoc and a css style sheet can convert the resume markdown file to an html page  </description>
@@ -34,10 +34,10 @@ Markdown -&amp;gt; PDF  Pandoc is used to convert the Markdown file to a latex f
     
     <item>
       <title>Hello Hugo</title>
-      <link>/posts/hello-world/</link>
+      <link>/blahg/hello-world/</link>
       <pubDate>Sat, 20 Oct 2018 13:18:59 -0700</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>/blahg/hello-world/</guid>
       <description>Testing out desiging a hugo theme. So far. So good.</description>
     </item>
     

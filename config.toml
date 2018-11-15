@@ -29,5 +29,6 @@ googleAnalytics         = "UA-128762731-1"
     text = "works"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "/blahg"
+    text = "blahg"
+
