@@ -11,6 +11,7 @@ tags: ["Burning Man","Flux Foundation"]
 
 <iframe src="https://player.vimeo.com/video/141555457" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>from <a href="https://vimeo.com/user4361503">Flavio Lemelle</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZiWITmmOOS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Involvement
 - Electro/Mechanical design
