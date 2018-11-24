@@ -20,3 +20,10 @@ tags: ["edc","big art", "Flux Foundation"]
 ## Links
 - [3Scan](http://www.3scan.com)
 - [Flux Foundation](http://www.fluxfoundation.org/fishbug/)
+
+![Fishbug](../images/fb_2.jpg)
+![Fishbug](../images/fb_1.jpg)
+![Fishbug](../images/fb_3.jpg)
+![Fishbug](../images/fishbug_setup.jpg)
+![Fishbug](../images/fishbug_mapping_1.jpg)
+![Fishbug](../images/fishbug_mapping_2.jpg)
