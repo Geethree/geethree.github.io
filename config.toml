@@ -11,10 +11,11 @@ googleAnalytics         = "UA-128762731-1"
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    email               = "ger.spencer3@gmail.com"
     favicon             = "g3.ico"
-    homepage            = "main"
     footerText          = "www.geraldhspencer.com"
     github_url          = "https://github.com/Geethree"
+    homepage            = "main"
     linkedin_url        = "https://www.linkedin.com/in/gerald-spencer-bb2617123/"
 
 [[params.mainMenu]]
