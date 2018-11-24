@@ -20,3 +20,11 @@ tags: ["Afrikaburn","big art", "brls"]
   - Rotating lights... this was Africa so sourcing things is difficult. I found some disco ball motors in Cape Town, some square mirrors and welded up a frame to connect them all together. Then simple 120v LED spot lights were aimed up at the rotating structure
 - Network Design
   - Ubiquiti equipment throughout creating a wireless network between each of the structures. As a bonus, the main lighthouse was hooked into the events wifi allowing me to control the lights from anywhere at the event!
+
+
+![AfrikaBurn](../images/ab_1.jpg)
+![AfrikaBurn](../images/ab_2.jpg)
+![AfrikaBurn](../images/ab_3.jpg)
+![AfrikaBurn](../images/ab_4.jpg)
+![AfrikaBurn](../images/ab_5.jpg)
+![AfrikaBurn](../images/ab_6.jpg)

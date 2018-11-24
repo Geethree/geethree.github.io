@@ -7,9 +7,6 @@ tags: ["burning man","big art", "brls"]
 ---
 
 ![](../images/brls_1.jpg)
-![](../images/brls_2.jpg)
-![](../images/brls_3.jpg)
-![](../images/brls_4.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hLChQsBYCa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -34,3 +31,8 @@ tags: ["burning man","big art", "brls"]
 
 ## Special Thanks
 - [Samson Yeung](https://github.com/fragmede): For the software help, and on-site aloft linux usb driver debugging
+
+
+![](../images/brls_2.jpg)
+![](../images/brls_3.jpg)
+![](../images/brls_4.jpg)
