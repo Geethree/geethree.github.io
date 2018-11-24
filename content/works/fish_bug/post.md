@@ -8,7 +8,7 @@ tags: ["edc","big art", "Flux Foundation"]
 
 *Half fish, half bug, fiberglass and a whole lot of steel*
 ![Fishbug](../images/fishbug_edc_1.jpg)
-<iframe width="500" height="315" src="https://www.youtube.com/embed/e9wluEKMxeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="500" height="315" src="https://www.youtube.com/embed/R6Ct8u64lbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9wluEKMxeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/R6Ct8u64lbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/o1SUtCQ2x4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Involvement
 - Lighting Design
@@ -18,4 +18,5 @@ tags: ["edc","big art", "Flux Foundation"]
   - My work at 3Scan revolves around the digital recontruction of various biological matter, this lead me to play a recent visualization of the vascular system of a rat's brain inside of fishbugs head.
 
 ## Links
+- [3Scan](http://www.3scan.com)
 - [Flux Foundation](http://www.fluxfoundation.org/fishbug/)

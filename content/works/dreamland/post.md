@@ -33,3 +33,8 @@ tags: ["Burning Man","Flux Foundation"]
 ## Links
 - [Flux Foundation](http://www.fluxfoundation.org/dreamland/)
 - [Github](https://github.com/Dreamland2015/Dreamland)
+
+## Special Thanks
+- [Caroline Miller](https://www.linkedin.com/in/mills42): For the introduction to Flux! 
+- [Peter Kimelman](https://experience.pk): For pushing me even when I was falling apart
+- [Samson Yeung](https://github.com/fragmede): For the software help, and on-site aloft linux usb driver debugging
