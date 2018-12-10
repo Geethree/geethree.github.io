@@ -9,5 +9,5 @@ Professionally, I'm a mechanical engineer that is passionate about fluids, therm
 For fun, I utilize my technical training to help various arts groups achieve their dreams. A role that normally involves complex integration of hardware, electronics and software to acheive the lead artists vision.  Namely, I sit on the board of the [Flux Foundation](www.fluxfoundation.org) where we use the creation of public art as a vessel to empower the volunteers that join us.
 
 * [Past Works](/works)
-* [Resume](/resume/gspencer_eng.pdf)
+<!-- * [Resume](/resume/gspencer_eng.pdf) ---> 
 
