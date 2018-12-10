@@ -11,6 +11,7 @@ tags: ["Burning Man","Flux Foundation"]
 
 <iframe src="https://player.vimeo.com/video/141555457" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>from <a href="https://vimeo.com/user4361503">Flavio Lemelle</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZiWITmmOOS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Involvement
 - Electro/Mechanical design
@@ -33,3 +34,9 @@ tags: ["Burning Man","Flux Foundation"]
 ## Links
 - [Flux Foundation](http://www.fluxfoundation.org/dreamland/)
 - [Github](https://github.com/Dreamland2015/Dreamland)
+
+## Special Thanks
+- [Caroline Miller](https://www.linkedin.com/in/mills42): For the introduction to Flux
+- [Mark Slee](http://mcslee.com): For the late afternoon LX matrix transformation library additions
+- [Peter Kimelman](https://experience.pk): For pushing me even when I was falling apart
+- [Samson Yeung](https://github.com/fragmede): For the software help, and on-site aloft linux usb driver debugging

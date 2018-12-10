@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maker Faire on Gerald</title>
+    <link>/tags/maker-faire/</link>
+    <description>Recent content in Maker Faire on Gerald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 May 2016 12:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/maker-faire/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016 Bay Area Maker Faire - Dreamscape</title>
+      <link>/works/dreamscape/post/</link>
+      <pubDate>Thu, 19 May 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/works/dreamscape/post/</guid>
+      <description>  Involvement  Dreamland&amp;rsquo;s lamp poles were reconfigured with edison bulbs, and two were wirelessly connected to create an physically disjoint set of social furniture benches that allowed participants to interact with the other benches lights.  Links  Flux Foundation Github  </description>
+    </item>
+    
+  </channel>
+</rss>

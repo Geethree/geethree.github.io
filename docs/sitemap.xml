@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>/works/dreamscape/post/</loc>
+    <lastmod>2016-05-19T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/works/lighthouse_affair/post/</loc>
     <lastmod>2016-04-19T12:00:00-07:00</lastmod>
   </url>
@@ -138,6 +143,12 @@
   <url>
     <loc>/</loc>
     <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maker-faire/</loc>
+    <lastmod>2016-05-19T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
