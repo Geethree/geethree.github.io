@@ -96,9 +96,11 @@ Software/System Design
 	Extensive experience with the following:
 
     * **Build systems**: Gradle, Maven, Tox
+    * **Cloud Infrastructure**: All things compute, networking, storage, security, AI/ML related to AWS or GCP
     * **Configuration Management**: Ansible, Puppet, Terraform
     * **Development Environments**: AWS Cloud9, Docker, Vagrant
-    * **Languages**: Bash, C, C++, Groovy, Java, .Net, Python, Scala,
+    * **IT/Networking**: Manage 3Scan's AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOs you name it!
+    * **Languages**: Bash, C, C++, Groovy, Java, Javascript, .Net, Node, Python, Scala, Typescript
     * **Monitoring/Telemetry**: Centralized logging, Elk, Grafana, Prometheus
     * **Operating Systems**: At home in linux or windows
 

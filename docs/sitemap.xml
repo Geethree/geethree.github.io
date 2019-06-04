@@ -68,6 +68,12 @@
   </url>
   
   <url>
+    <loc>/tags/temple/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/big-art/</loc>
     <lastmod>2018-08-30T12:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -75,12 +81,6 @@
   
   <url>
     <loc>/tags/burning-man/</loc>
-    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/temple/</loc>
     <lastmod>2018-08-30T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
