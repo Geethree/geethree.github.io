@@ -71,6 +71,24 @@ Experience
 Technical Experience
 --------------------
 
+Software/System Design
+:   Production ready systems should be modular, tested and well documented. Development environments and deployments must to be reliable, repeatable and consistently deployed/monitored to ensure there is no drift from code to infrastructure.
+
+	Extensive experience with the following:
+
+    * **Build systems**: Bassel, Gradle, Lerna, Maven, Tox
+    * **CI/CD**: AWS CodePipeline, Buildkite, CircleCI, Jenkins, Travis
+    * **Cloud Infrastructure**: All things compute, networking, storage, security, AI/ML related to AWS or GCP
+    * **Configuration Management**: Ansible, Puppet, Terraform
+    * **Containers/Micro-services**: Docker, Docker Compose, Docker Swarm, ECS, Jib, Kubernetes
+    * **Development Environments**: AWS Cloud9, Docker, Intellij, Vagrant
+    * **IT/Networking**: Manage 3Scan's AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOs you name it!
+    * **Languages**: Bash, C, C++, Groovy, Java, Javascript, .Net, Node, Python, Scala, Typescript
+    * **Monitoring/Telemetry**: Centralized logging, Elk, Grafana, Graphite, Prometheus
+    * **Operating Systems**: At home in linux or windows
+    * **Testing**: Junit, PyTest
+    * **Version Control**: Git, Github, Gitlab, Phabricator
+
 Engineering Management
 :   Together we can create something that any individual or single team can imagine!
 
@@ -89,20 +107,6 @@ Mechanical Design
 
     * **CAD**: Solidworks, Creo/ProE
     * **FEA**: Abaqus, Solidworks, Creo
-
-Software/System Design
-:   Production ready systems should be modular, tested and well documented. Development and Deployments need to be reliable, repeatable and consistently deployed/monitored to ensure there is no drift from code to infrastructure.
-
-	Extensive experience with the following:
-
-    * **Build systems**: Gradle, Maven, Tox
-    * **Cloud Infrastructure**: All things compute, networking, storage, security, AI/ML related to AWS or GCP
-    * **Configuration Management**: Ansible, Puppet, Terraform
-    * **Development Environments**: AWS Cloud9, Docker, Vagrant
-    * **IT/Networking**: Manage 3Scan's AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOs you name it!
-    * **Languages**: Bash, C, C++, Groovy, Java, Javascript, .Net, Node, Python, Scala, Typescript
-    * **Monitoring/Telemetry**: Centralized logging, Elk, Grafana, Prometheus
-    * **Operating Systems**: At home in linux or windows
 
 [3Scan]: www.3scan.com
 [Black Rock Lighthouse Service]: https://journal.burningman.org/2016/08/burning-man-arts/brc-art/black-rock-lighthouse-service

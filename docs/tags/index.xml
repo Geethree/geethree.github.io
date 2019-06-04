@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Temple</title>
-      <link>/tags/temple/</link>
-      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/temple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>big art</title>
       <link>/tags/big-art/</link>
       <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
@@ -62,6 +53,15 @@
       <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
       <guid>/tags/burning-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temple</title>
+      <link>/tags/temple/</link>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/temple/</guid>
       <description></description>
     </item>
     
