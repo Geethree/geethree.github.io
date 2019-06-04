@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blahg/website_makefile/</loc>
     <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/automation/</loc>
+    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blog/</loc>
+    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -38,8 +68,44 @@
   </url>
   
   <url>
+    <loc>/tags/big-art/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/burning-man/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/temple/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/works/victoria_and_albert/post/</loc>
     <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/art/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/museum/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/video-wall/</loc>
+    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -58,73 +124,19 @@
   </url>
   
   <url>
-    <loc>/works/fish_bug/post/</loc>
-    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/works/dreamscape/post/</loc>
-    <lastmod>2016-05-19T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/works/lighthouse_affair/post/</loc>
-    <lastmod>2016-04-19T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/works/dreamland/post/</loc>
-    <lastmod>2015-08-30T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resume/gspencer_eng/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/afrikaburn/</loc>
-    <lastmod>2016-04-19T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/automation/</loc>
-    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/big-art/</loc>
-    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/brls/</loc>
     <lastmod>2016-08-30T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/burning-man/</loc>
-    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
-    <priority>0</priority>
+    <loc>/works/fish_bug/post/</loc>
+    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/flux-foundation/</loc>
+    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,15 +147,8 @@
   </url>
   
   <url>
-    <loc>/tags/flux-foundation/</loc>
-    <lastmod>2016-06-29T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
-    <priority>0</priority>
+    <loc>/works/dreamscape/post/</loc>
+    <lastmod>2016-05-19T12:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -153,32 +158,28 @@
   </url>
   
   <url>
-    <loc>/tags/museum/</loc>
-    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
-    <priority>0</priority>
+    <loc>/works/lighthouse_affair/post/</loc>
+    <lastmod>2016-04-19T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/software/</loc>
-    <lastmod>2018-11-11T12:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/tags/afrikaburn/</loc>
     <lastmod>2016-04-19T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/temple/</loc>
-    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+    <loc>/works/dreamland/post/</loc>
+    <lastmod>2015-08-30T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resume/gspencer_eng/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/video-wall/</loc>
-    <lastmod>2018-05-01T12:00:00-07:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   

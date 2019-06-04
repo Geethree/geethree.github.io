@@ -6,31 +6,13 @@
     <description>Recent content in Tags on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2016 12:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 12:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Afrikaburn</title>
-      <link>/tags/afrikaburn/</link>
-      <pubDate>Tue, 19 Apr 2016 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/afrikaburn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>/tags/art/</link>
-      <pubDate>Tue, 01 May 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automation</title>
+      <title>automation</title>
       <link>/tags/automation/</link>
       <pubDate>Sun, 11 Nov 2018 12:00:00 -0700</pubDate>
       
@@ -39,16 +21,7 @@
     </item>
     
     <item>
-      <title>Big Art</title>
-      <link>/tags/big-art/</link>
-      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/big-art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>/tags/blog/</link>
       <pubDate>Sun, 11 Nov 2018 12:00:00 -0700</pubDate>
       
@@ -57,16 +30,25 @@
     </item>
     
     <item>
-      <title>Brls</title>
-      <link>/tags/brls/</link>
-      <pubDate>Tue, 30 Aug 2016 12:00:00 -0700</pubDate>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Sun, 11 Nov 2018 12:00:00 -0700</pubDate>
       
-      <guid>/tags/brls/</guid>
+      <guid>/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Burning Man</title>
+      <title>big art</title>
+      <link>/tags/big-art/</link>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/big-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burning man</title>
       <link>/tags/burning-man/</link>
       <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
@@ -75,11 +57,47 @@
     </item>
     
     <item>
-      <title>Edc</title>
-      <link>/tags/edc/</link>
-      <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
+      <title>temple</title>
+      <link>/tags/temple/</link>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
-      <guid>/tags/edc/</guid>
+      <guid>/tags/temple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>/tags/art/</link>
+      <pubDate>Tue, 01 May 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>museum</title>
+      <link>/tags/museum/</link>
+      <pubDate>Tue, 01 May 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/museum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video wall</title>
+      <link>/tags/video-wall/</link>
+      <pubDate>Tue, 01 May 2018 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/video-wall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brls</title>
+      <link>/tags/brls/</link>
+      <pubDate>Tue, 30 Aug 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/brls/</guid>
       <description></description>
     </item>
     
@@ -93,6 +111,15 @@
     </item>
     
     <item>
+      <title>edc</title>
+      <link>/tags/edc/</link>
+      <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/edc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maker Faire</title>
       <link>/tags/maker-faire/</link>
       <pubDate>Thu, 19 May 2016 12:00:00 -0700</pubDate>
@@ -102,38 +129,11 @@
     </item>
     
     <item>
-      <title>Museum</title>
-      <link>/tags/museum/</link>
-      <pubDate>Tue, 01 May 2018 12:00:00 -0700</pubDate>
+      <title>Afrikaburn</title>
+      <link>/tags/afrikaburn/</link>
+      <pubDate>Tue, 19 Apr 2016 12:00:00 -0700</pubDate>
       
-      <guid>/tags/museum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/tags/software/</link>
-      <pubDate>Sun, 11 Nov 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temple</title>
-      <link>/tags/temple/</link>
-      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/temple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video Wall</title>
-      <link>/tags/video-wall/</link>
-      <pubDate>Tue, 01 May 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/video-wall/</guid>
+      <guid>/tags/afrikaburn/</guid>
       <description></description>
     </item>
     
