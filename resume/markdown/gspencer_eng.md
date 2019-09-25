@@ -22,7 +22,12 @@ Education
 Experience
 ----------
 
-2013 - Present
+2019 - Present
+:   **[Strateos] - Director of Production Engineering**
+
+	Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.
+
+2013 - 2019
 :   **[3Scan] - Director of Production Engineering**
 
 	Oversee a multi-disciplinary agile team of around 15 from hardware to software engineers, and biologists to product specialists to develop a high-resolution/high-throughput 3D medical imaging system.
@@ -115,7 +120,8 @@ Mechanical Design
 [Linkedin]: https://www.linkedin.com/in/gerald-spencer-bb2617123/
 [Taylor Collaboration]: www.taylorcollaboration.org
 [Temple 2017]: http://www.temple2017.org/
-[Temple Galaxia]: ww.templegalaxia.org
+[Temple Galaxia]: www.templegalaxia.org
+[Strateos]: www.strateos.com
 
 ----
 

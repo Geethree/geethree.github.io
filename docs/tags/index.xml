@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>temple</title>
+      <title>Temple</title>
       <link>/tags/temple/</link>
       <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
       
@@ -102,20 +102,20 @@
     </item>
     
     <item>
-      <title>Flux Foundation</title>
-      <link>/tags/flux-foundation/</link>
-      <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
-      
-      <guid>/tags/flux-foundation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>edc</title>
       <link>/tags/edc/</link>
       <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
       
       <guid>/tags/edc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flux Foundation</title>
+      <link>/tags/flux-foundation/</link>
+      <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
+      
+      <guid>/tags/flux-foundation/</guid>
       <description></description>
     </item>
     

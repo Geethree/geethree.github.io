@@ -66,7 +66,9 @@ Markdown -&amp;gt; PDF  Pandoc is used to convert the Markdown file to a latex f
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, I&amp;rsquo;m Gerald. Professionally, I&amp;rsquo;m a mechanical engineer that is passionate about fluids, thermo, mechanical design and the interaction of hardware and software. The past several years have been spent flexing my technical leadership skills at 3Scan, by leading a small interdisciplinary team ranging from hardware and software engineers to biologists in building out a digital pathology production line. Our work revolves around combining automation, robotics and machine learning to extract spatial data from tissue samples.</description>
+      <description>Hello, I&amp;rsquo;m Gerald.
+Professionally, I&amp;rsquo;m a mechanical engineer that is passionate about fluids, thermo, mechanical design and the interaction of hardware and software.
+The past several years have been spent flexing my technical leadership skills at 3Scan, by leading a small interdisciplinary team ranging from hardware and software engineers to biologists in building out a digital pathology production line. Our work revolves around combining automation, robotics and machine learning to extract spatial data from tissue samples.</description>
     </item>
     
     <item>
