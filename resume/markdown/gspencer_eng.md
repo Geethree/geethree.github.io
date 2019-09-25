@@ -41,7 +41,7 @@ Experience
 	* High throughput imaging system(s) both mechatronics design and software design
 	* Agile methodologies for both hardware and software projects and products
 
-1/2018 - 9/2018
+10/2018 - 9/2019
 :   **[The Folly] - Electrical and Lighting lead**
 
 	* Development of structure's power distribution and electrical layout
