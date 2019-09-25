@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>/works/the_folly/post/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/big-art/</loc>
     <lastmod>2018-08-30T12:00:00-07:00</lastmod>
   </url>
@@ -73,7 +78,17 @@
   </url>
   
   <url>
+    <loc>/tags/folly/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/temple/</loc>
+    <lastmod>2018-08-30T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/the-folly/</loc>
     <lastmod>2018-08-30T12:00:00-07:00</lastmod>
   </url>
   
