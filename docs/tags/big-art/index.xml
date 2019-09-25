@@ -6,10 +6,19 @@
     <description>Recent content in big art on Gerald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 12:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 12:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/big-art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 Burning Man - The Folly</title>
+      <link>/works/the_folly/post/</link>
+      <pubDate>Fri, 30 Aug 2019 12:00:00 -0700</pubDate>
+      
+      <guid>/works/the_folly/post/</guid>
+      <description>Coming soon!</description>
+    </item>
     
     <item>
       <title>2018 Burning Man - Temple Galaxia</title>
@@ -19,15 +28,6 @@
       <guid>/works/galaxia/post/</guid>
       <description> Photo: Jamen Percy
  Visions from the dust </description>
-    </item>
-    
-    <item>
-      <title>2019 Burning Man - The Folly</title>
-      <link>/works/the_folly/post/</link>
-      <pubDate>Thu, 30 Aug 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/works/the_folly/post/</guid>
-      <description>Coming soon!</description>
     </item>
     
     <item>
