@@ -27,6 +27,11 @@ Experience
 
 	Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.
 
+2015 - Present
+:    **[Flux Foundation] - Lead technologist**
+
+	* Project management for a small team of roughly 10 artists of various disciplines 
+
 2013 - 2019
 :   **[3Scan] - Director of Production Engineering**
 
@@ -36,10 +41,11 @@ Experience
 	* High throughput imaging system(s) both mechatronics design and software design
 	* Agile methodologies for both hardware and software projects and products
 
-2015 - Present
-:    **[Flux Foundation] - Lead technologist**
+1/2018 - 9/2018
+:   **[The Folly] - Electrical and Lighting lead**
 
-	* Project management for a small team of roughly 10 artists of various disciplines 
+	* Development of structure's power distribution and electrical layout
+	* Exterior and interior lighting design
 
 1/2018 - 9/2018
 :   **[Temple Galaxia] - Project Manager | Lighting lead**
@@ -113,15 +119,16 @@ Mechanical Design
     * **CAD**: Solidworks, Creo/ProE
     * **FEA**: Abaqus, Solidworks, Creo
 
-[3Scan]: www.3scan.com
+[3Scan]: http://www.3scan.com
 [Black Rock Lighthouse Service]: https://journal.burningman.org/2016/08/burning-man-arts/brc-art/black-rock-lighthouse-service
-[Flux Foundation]: www.fluxfoundation.org
+[Flux Foundation]: http://www.fluxfoundation.org
 [Github]: https://github.com/Geethree
 [Linkedin]: https://www.linkedin.com/in/gerald-spencer-bb2617123/
-[Taylor Collaboration]: www.taylorcollaboration.org
+[Taylor Collaboration]: http://www.taylorcollaboration.org
 [Temple 2017]: http://www.temple2017.org/
-[Temple Galaxia]: www.templegalaxia.org
-[Strateos]: www.strateos.com
+[Temple Galaxia]: http://www.templegalaxia.org
+[The Folly]: https://www.thefollybrc.com/
+[Strateos]: http://www.strateos.com
 
 ----
 
