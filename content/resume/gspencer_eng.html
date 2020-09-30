@@ -5,17 +5,20 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>gspencer_eng</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
   <style type="text/css">
-  
+
   /* Whole document */
   body {
       /*font-family: "didact Gothic", sans-serif;*/
@@ -25,7 +28,7 @@
       background: #FFFFFF;
       padding: 10px 10px 10px 10px;
   }
-  
+
   /* Title of the resume */
   h1 {
       font-size: 55px;
@@ -33,7 +36,7 @@
       text-align:center;
       margin-bottom:15px;
   }
-  
+
   /* Titles of categories */
   h2 {
       /* This is called "sectioncolor" in the ConTeXt stylesheet. */
@@ -49,7 +52,7 @@
       /* This is called "rulecolor" in the ConTeXt stylesheet. */
       background-color: #757575;
   }
-  
+
   /* Definitions */
   dt {
       float: left;
@@ -63,23 +66,23 @@
       margin-top:0;
       margin-bottom:7px;
   }
-  
+
   /* Blockquotes */
   blockquote {
       text-align: center
   }
-  
+
   /* Links */
   a {
       text-decoration: none;
       color: darken($white, 20%);
   }
-  
+
   /* Horizontal separators */
   hr {
       color: #A6A6A6;
   }
-  
+
   table {
       width: 100%;
   }
@@ -89,8 +92,8 @@
 <h1 id="gerald-spencer">Gerald Spencer</h1>
 <hr />
 <blockquote>
-<p>Multi-dimensional mechanical engineer passionate about:<br />
-Devops, Engineering management, Fluids, Mechatronics and Thermal design</p>
+<p>Multi-dimensional engineering leader passionate about:<br />
+Automation, CI/CD, Community Building, Devops, Kubernetes and Networking</p>
 </blockquote>
 <hr />
 <h2 id="education">Education</h2>
@@ -104,22 +107,29 @@ Devops, Engineering management, Fluids, Mechatronics and Thermal design</p>
 <h2 id="experience">Experience</h2>
 <dl>
 <dt>2019 - Present</dt>
-<dd><p><strong><a href="http://www.strateos.com" target="_blank">Strateos</a> - Director of Production Engineering</strong></p>
+<dd><p><strong><a href="http://www.strateos.com" target="_blank">Strateos</a> - Director of Infrastructure</strong></p>
 <p>Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.</p>
+<ul>
+<li>Drove the Eng.Org’s impact by building community, providing a common voice, purpose and thinking beyond immediate responsibility</li>
+<li>Shifted operational mindsets from reative to protactive by bridging legacy silo’d teams</li>
+<li>Actively worked with Product to strategically develop the Eng.Org’s infrastructure roadmap to meet future growth targets</li>
+<li>Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI/CD system</li>
+<li>Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes</li>
+<li>Provided mentorship and training across the teams with respect to: evolutionary architecture and infrastructure</li>
+</ul>
 </dd>
 <dt>2015 - Present</dt>
 <dd><p><strong><a href="http://www.fluxfoundation.org" target="_blank">Flux Foundation</a> - Lead technologist</strong></p>
-<ul>
-<li>Project management for a small team of roughly 10 artists of various disciplines</li>
-</ul>
+<p>A small arts collective that builds large art, which is shown at Burning man and numerous festivals around the country</p>
 </dd>
 <dt>2013 - 2019</dt>
 <dd><p><strong><a href="http://www.3scan.com" target="_blank">3Scan</a> - Director of Production Engineering</strong></p>
-<p>Oversee a multi-disciplinary agile team of around 15 from hardware to software engineers, and biologists to product specialists to develop a high-resolution/high-throughput 3D medical imaging system.</p>
+<p>Oversaw a multi-disciplinary team of 15 - from hardware to software engineers, and biologists to product specialists - to develop a high-resolution/high-throughput 3D medical imaging system.</p>
 <ul>
+<li>Lead a team of software engineers to develop a system capable of ingesting 24GB/s of imagery</li>
+<li>Merged a facility with the AWS cloud by executing a build out with 40Gbps of leased fiber from AWS(us-west-2) into downtown SF</li>
 <li>Engineering project management from ideation to on-going maintenance</li>
-<li>High throughput imaging system(s) both mechatronics design and software design</li>
-<li>Agile methodologies for both hardware and software projects and products</li>
+<li>Implemented Agile methodologies for both hardware and software products</li>
 </ul>
 </dd>
 <dt>10/2018 - 9/2019</dt>
@@ -167,49 +177,37 @@ Devops, Engineering management, Fluids, Mechatronics and Thermal design</p>
 <h2 id="technical-experience">Technical Experience</h2>
 <dl>
 <dt>Software/System Design</dt>
-<dd><p>Production ready systems should be modular, tested and well documented. Development environments and deployments must to be reliable, repeatable and consistently deployed/monitored to ensure there is no drift from code to infrastructure.</p>
+<dd><p>Production ready systems should be modular, composable, reliable and operation on the principle of least surprise.</p>
 <p>Extensive experience with the following:</p>
 <ul>
-<li><strong>Build systems</strong>: Bassel, Gradle, Lerna, Maven, Tox</li>
-<li><strong>CI/CD</strong>: AWS CodePipeline, Buildkite, CircleCI, Jenkins, Travis</li>
+<li><strong>Build systems</strong>: Bassel, Gradle, Lerna, Maven, Tox, Poetry</li>
+<li><strong>CI/CD</strong>: ArgoCD, AWS CodePipeline, Buildkite, CircleCI, Jenkins, GoCD, Travis</li>
 <li><strong>Cloud Infrastructure</strong>: All things compute, networking, storage, security, AI/ML related to AWS or GCP</li>
 <li><strong>Configuration Management</strong>: Ansible, Puppet, Terraform</li>
-<li><strong>Containers/Micro-services</strong>: Docker, Docker Compose, Docker Swarm, ECS, Jib, Kubernetes</li>
+<li><strong>Containers/Micro-services</strong>: Docker, Docker Swarm, ECS, Kubernetes, Mesos, Lambda, Kubeless, Severless</li>
 <li><strong>Development Environments</strong>: AWS Cloud9, Docker, Intellij, Vagrant</li>
 <li><strong>IT/Networking</strong>: Manage 3Scan’s AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOs you name it!</li>
 <li><strong>Languages</strong>: Bash, C, C++, Groovy, Java, Javascript, .Net, Node, Python, Scala, Typescript</li>
-<li><strong>Monitoring/Telemetry</strong>: Centralized logging, Elk, Grafana, Graphite, Prometheus</li>
-<li><strong>Operating Systems</strong>: At home in linux or windows</li>
-<li><strong>Testing</strong>: Junit, PyTest</li>
+<li><strong>Monitoring/Telemetry</strong>: Centralized logging, Elk, Grafana, Graphite, Prometheus, Sumologic, Splunk</li>
+<li><strong>Operating Systems</strong>: At home in any flavor of linux and windows</li>
+<li><strong>Testing</strong>: Junit, PyTest, ScalaTest</li>
 <li><strong>Version Control</strong>: Git, Github, Gitlab, Phabricator</li>
 </ul>
 </dd>
 <dt>Engineering Management</dt>
-<dd><p>Together we can create something that any individual or single team can imagine!</p>
+<dd><p>Engineering is fundamentally a creative task, and the job of a strong Leader is to maximize people’s ability to get the thing they want to do done.</p>
 <ul>
 <li><strong>Agile methodologies</strong>: Applied to both software and hardware</li>
-<li><strong>Project management</strong>: From gantt charts and QFDs to task management and KPIs</li>
+<li><strong>Project management</strong>: From gantt charts and QFDs to task management, OKRs and KPIs</li>
 <li>The customer experience is key, dog-fooding is a must</li>
-<li>Have overseen complex multi-disciplinary teams from 2 to 20 engineers</li>
-</ul>
-</dd>
-<dt>Fluidics Design</dt>
-<dd><p>A beautifully complex field that has enabled humans to reach the moon, or replace a worn aortic valve.</p>
-<ul>
-<li><strong>CFD</strong>: Fluent, Solidworks</li>
-</ul>
-</dd>
-<dt>Mechanical Design</dt>
-<dd><p>Machinist in my heart. Deep knowledge of kinematics, rapid prototyping, Newtonian mechanics, gears, and standardized materials</p>
-<ul>
-<li><strong>CAD</strong>: Solidworks, Creo/ProE</li>
-<li><strong>FEA</strong>: Abaqus, Solidworks, Creo</li>
+<li>Have overseen complex multi-disciplinary teams from 2 to 15 engineers</li>
+<li>Deeply enjoy seeding an engineering culture that will meet the future organization needs</li>
 </ul>
 </dd>
 </dl>
 <hr />
 <blockquote>
-<p><a href="mailto:ger.spencer3@gmail.com">ger.spencer3@gmail.com</a> • +1-510-838-2327<br />
+<p><a href="mailto:ger.spencer3@gmail.com" class="email">ger.spencer3@gmail.com</a> • +1-510-838-2327<br />
 San Francisco, California, USA<br />
 <a href="https://github.com/Geethree" target="_blank">Github</a> • <a href="https://www.linkedin.com/in/gerald-spencer-bb2617123/" target="_blank">Linkedin</a></p>
 </blockquote>

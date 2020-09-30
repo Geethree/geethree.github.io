@@ -3,9 +3,9 @@ title: "About"
 date: 2018-02-13T13:42:49-05:00
 ---
 
-Hello, I'm Gerald.
+Hi, I'm Gerald!
 
-Professionally, I'm a mechanical engineer that is passionate about fluids, thermo, mechanical design and the interaction of hardware and software.
+Professionally, I'm an engineering leader engineer who is passionate about automation, culture and how to expand my own impact by empowering those that work with me.
 
 The past several years have been spent flexing my technical leadership skills at [3Scan](http://www.3scan.com), by leading a small interdisciplinary team ranging from hardware and software engineers to biologists in building out a digital pathology production line. Our work revolves around combining automation, robotics and machine learning to extract spatial data from tissue samples. My main contributions to 3Scan since 2013 has the mechanical/fluid architecture of our microscopes, scaling up/out our processes to repeatably setup and update our systems, and shoring up our diamond knife supply chain.
 

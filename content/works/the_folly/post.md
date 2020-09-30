@@ -5,4 +5,5 @@ showDate: false
 draft: false
 tags: ["Burning Man","big art", "the folly", "folly"]
 ---
-Coming soon!
+![](../images/folly.jpg)
+![](../images/folly_2.jpg)

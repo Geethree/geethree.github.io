@@ -3,8 +3,8 @@ Gerald Spencer
 
 ----
 
-> Multi-dimensional mechanical engineer passionate about:\
-> Devops, Engineering management, Fluids, Mechatronics and Thermal design
+> Multi-dimensional engineering leader passionate about:\
+> Automation, CI/CD, Community Building, Devops, Kubernetes and Networking
 
 ----
 
@@ -23,23 +23,31 @@ Experience
 ----------
 
 2019 - Present
-:   **[Strateos] - Director of Production Engineering**
+:   **[Strateos] - Director of Infrastructure**
 
 	Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.
 
+    * Drove the Eng.Org's impact by building community, providing a common voice, purpose and thinking beyond immediate responsibility
+    * Shifted operational mindsets from reative to protactive by bridging legacy silo'd teams
+    * Actively worked with Product to strategically develop the Eng.Org's infrastructure roadmap to meet future growth targets
+    * Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI/CD system
+    * Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes
+    * Provided mentorship and training across the teams with respect to: evolutionary architecture and infrastructure
+
 2015 - Present
 :    **[Flux Foundation] - Lead technologist**
-
-	* Project management for a small team of roughly 10 artists of various disciplines 
+    
+    A small arts collective that builds large art, which is shown at Burning man and numerous festivals around the country
 
 2013 - 2019
 :   **[3Scan] - Director of Production Engineering**
 
-	Oversee a multi-disciplinary agile team of around 15 from hardware to software engineers, and biologists to product specialists to develop a high-resolution/high-throughput 3D medical imaging system.
+	Oversaw a multi-disciplinary team of 15 - from hardware to software engineers, and biologists to product specialists - to develop a high-resolution/high-throughput 3D medical imaging system.
 
+    * Lead a team of software engineers to develop a system capable of ingesting 24GB/s of imagery
+    * Merged a facility with the AWS cloud by executing a build out with 40Gbps of leased fiber from AWS(us-west-2) into downtown SF
 	* Engineering project management from ideation to on-going maintenance
-	* High throughput imaging system(s) both mechatronics design and software design
-	* Agile methodologies for both hardware and software projects and products
+	* Implemented Agile methodologies for both hardware and software products
 
 10/2018 - 9/2019
 :   **[The Folly] - Electrical and Lighting lead**
@@ -83,41 +91,31 @@ Technical Experience
 --------------------
 
 Software/System Design
-:   Production ready systems should be modular, tested and well documented. Development environments and deployments must to be reliable, repeatable and consistently deployed/monitored to ensure there is no drift from code to infrastructure.
+:   Production ready systems should be modular, composable, reliable and operation on the principle of least surprise. 
 
 	Extensive experience with the following:
 
-    * **Build systems**: Bassel, Gradle, Lerna, Maven, Tox
-    * **CI/CD**: AWS CodePipeline, Buildkite, CircleCI, Jenkins, Travis
+    * **Build systems**: Bassel, Gradle, Lerna, Maven, Tox, Poetry
+    * **CI/CD**: ArgoCD, AWS CodePipeline, Buildkite, CircleCI, Jenkins, GoCD, Travis
     * **Cloud Infrastructure**: All things compute, networking, storage, security, AI/ML related to AWS or GCP
     * **Configuration Management**: Ansible, Puppet, Terraform
-    * **Containers/Micro-services**: Docker, Docker Compose, Docker Swarm, ECS, Jib, Kubernetes
+    * **Containers/Micro-services**: Docker, Docker Swarm, ECS, Kubernetes, Mesos, Lambda, Kubeless, Severless
     * **Development Environments**: AWS Cloud9, Docker, Intellij, Vagrant
     * **IT/Networking**: Manage 3Scan's AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOs you name it!
     * **Languages**: Bash, C, C++, Groovy, Java, Javascript, .Net, Node, Python, Scala, Typescript
-    * **Monitoring/Telemetry**: Centralized logging, Elk, Grafana, Graphite, Prometheus
-    * **Operating Systems**: At home in linux or windows
-    * **Testing**: Junit, PyTest
+    * **Monitoring/Telemetry**: Centralized logging, Elk, Grafana, Graphite, Prometheus, Sumologic, Splunk
+    * **Operating Systems**: At home in any flavor of linux and windows
+    * **Testing**: Junit, PyTest, ScalaTest
     * **Version Control**: Git, Github, Gitlab, Phabricator
 
 Engineering Management
-:   Together we can create something that any individual or single team can imagine!
+:   Engineering is fundamentally a creative task, and the job of a strong Leader is to maximize people's ability to get the thing they want to do done.
 
     * **Agile methodologies**: Applied to both software and hardware
-    * **Project management**: From gantt charts and QFDs to task management and KPIs
+    * **Project management**: From gantt charts and QFDs to task management, OKRs and KPIs
     * The customer experience is key, dog-fooding is a must
-    * Have overseen complex multi-disciplinary teams from 2 to 20 engineers 
-
-Fluidics Design
-:   A beautifully complex field that has enabled humans to reach the moon, or replace a worn aortic valve. 
-
-    * **CFD**: Fluent, Solidworks
-
-Mechanical Design
-:   Machinist in my heart. Deep knowledge of kinematics, rapid prototyping, Newtonian mechanics, gears, and standardized materials
-
-    * **CAD**: Solidworks, Creo/ProE
-    * **FEA**: Abaqus, Solidworks, Creo
+    * Have overseen complex multi-disciplinary teams from 2 to 15 engineers
+    * Deeply enjoy seeding an engineering culture that will meet the future organization needs
 
 [3Scan]: http://www.3scan.com
 [Black Rock Lighthouse Service]: https://journal.burningman.org/2016/08/burning-man-arts/brc-art/black-rock-lighthouse-service
