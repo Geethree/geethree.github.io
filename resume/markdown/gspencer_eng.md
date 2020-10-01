@@ -1,6 +1,8 @@
 Gerald Spencer
 ============
 
+
+
 ----
 
 > Multi-dimensional engineering leader passionate about:\
@@ -28,7 +30,7 @@ Experience
 	Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.
 
     * Drove the Eng.Org's impact by building community, providing a common voice, purpose and thinking beyond immediate responsibility
-    * Shifted operational mindsets from reative to protactive by bridging legacy silo'd teams
+    * Shifted operational mindsets from reactive to protactive by bridging legacy silo'd teams
     * Actively worked with Product to strategically develop the Eng.Org's infrastructure roadmap to meet future growth targets
     * Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI/CD system
     * Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes
@@ -131,5 +133,5 @@ Engineering Management
 ----
 
 > <ger.spencer3@gmail.com> • +1-510-838-2327 \
-> San Francisco, California, USA \
+> Berkeley, California, USA \
 > [Github] • [Linkedin]
