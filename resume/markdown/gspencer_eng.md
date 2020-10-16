@@ -29,12 +29,12 @@ Experience
 
 	Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.
 
-    * Drove the Eng.Org's impact by building community, providing a common voice, purpose and thinking beyond immediate responsibility
-    * Shifted operational mindsets from reactive to proactive by bridging legacy silo'd teams
     * Actively worked with Product to strategically develop the Eng.Org's infrastructure roadmap to meet future growth targets
     * Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI/CD system
     * Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes
-    * Provided mentorship and training across the teams with respect to: evolutionary architecture and infrastructure
+    * Desgined and implemented a global transit system
+       * foo
+    * Provided mentorship and training across the teams with respect to: evolutionary architecture, networking and infrastructure
 
 2015 - Present
 :    **[Flux Foundation] - Lead technologist**
