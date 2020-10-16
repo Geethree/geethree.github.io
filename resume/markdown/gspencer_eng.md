@@ -1,8 +1,6 @@
 Gerald Spencer
 ============
 
-
-
 ----
 
 > Multi-dimensional engineering leader passionate about:\
@@ -27,14 +25,24 @@ Experience
 2019 - Present
 :   **[Strateos] - Director of Infrastructure**
 
-	Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.
+	Designing, developing, implementing and operating the robotic cloud drug discovery labs of the future.
 
     * Actively worked with Product to strategically develop the Eng.Org's infrastructure roadmap to meet future growth targets
-    * Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI/CD system
+       * One facility to four facilities across two continents
+    * Revamped legacy build systems:
+       * Decreased build times by 13x and drastically increased the org's feature velocity
+    * Bootstrapped a multi-account AWS configuration from scratch with full infrastructure-as-code (terraform)
+       * Seemlessly assimulated legacy pre-merger AWS accounts, and transferred workloads between accounts and regions
+    * Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI system
+       * Modern elastic Jenkins backed by full configuration-as-ccode and GitOps methodologies 
     * Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes
-    * Desgined and implemented a global transit system
-       * foo
-    * Provided mentorship and training across the teams with respect to: evolutionary architecture, networking and infrastructure
+       * Self-service and self-healing HA multi-cluster ArgoCD deployment
+    * Implemented, maintained and operated a cloud native observability platform comprised of: Prometheus, grafana, alertmanager, sumologic and pagerduty
+    * Implemented SSO via Okta for all mission-critical systems - from baremetal auth to internal apps to AWS to Eat Club
+    * Desgined and implemented a global transit system, by utilizing AWS transit gateways to:
+       * Dynamically reconfigure the global network multi-region multi-cluster kubernetes footprint with local facilities via BGP peering
+       * Provide a secure intranet for employees across the country, in Singapore, France and contractors in India
+    * Provided mentorship and training across the teams with respect to: architecture, CI/CD, infrastructure and networking
 
 2015 - Present
 :    **[Flux Foundation] - Lead technologist**
@@ -46,10 +54,12 @@ Experience
 
 	Oversaw a multi-disciplinary team of 15 - from hardware to software engineers, and biologists to product specialists - to develop a high-resolution/high-throughput 3D medical imaging system.
 
-    * Lead a team of software engineers to develop a system capable of ingesting 24GB/s of imagery
+    * Lead a team of software engineers in designing, developing and implementing a system capable of ingesting 24GB/s of imagery
+	  * Redesigned the original storage pipeline from a massive bare metal Ceph deployment to a cloud native objectstore backeend that reached a max size of 3.8PB
     * Merged a facility with the AWS cloud by executing a build out with 40Gbps of leased fiber from AWS(us-west-2) into downtown SF
-	* Engineering project management from ideation to on-going maintenance
-	* Implemented Agile methodologies for both hardware and software products
+      * Lead the effort for 3Scan to become officially recognized by ARIN
+      * Acquire publically addressable /24 block of IPv4 space
+      * Owned and operated BGP routing systems with two ISPs and AWS to route imagery into S3
 
 10/2018 - 9/2019
 :   **[The Folly] - Electrical and Lighting lead**
@@ -65,13 +75,6 @@ Experience
 	* Development of structures electrical schematic to CA Title 24 standards
 	* Lighting design: Custom PCB circuit boards, manufacturing and layout
 	* Custom software architecture and compute hardware to control 1200 addressable incandescents light bulbs
-
-1/2018 - 9/2018
-:   **[Temple 2017] - Lighting lead**
-
-	* Development of structures electrical schematic to CA Title 24 standards
-	* Automated lighting controls allowed hands-free operation during the event
-
 
 1/2016 - 10/2016
 :   **[Black Rock Lighthouse Service] - Lighting lead**
