@@ -1,10 +1,10 @@
 Gerald Spencer
 ============
-
 ----
 
 > Multi-dimensional engineering leader passionate about:\
-> Automation, CI/CD, Community Building, Devops, Kubernetes and Networking
+> Automation, CI/CD, Community Building, Devops, Kubernetes and Networking\
+> <ger.spencer3@gmail.com> • +1-510-838-2327
 
 ----
 
@@ -44,11 +44,6 @@ Experience
        * Provide a secure intranet for employees across the country, in Singapore, France and contractors in India
     * Provided mentorship and training across the teams with respect to: architecture, CI/CD, infrastructure and networking
 
-2015 - Present
-:    **[Flux Foundation] - Lead technologist**
-    
-    A small arts collective that builds large art, which is shown at Burning man and numerous festivals around the country
-
 2013 - 2019
 :   **[3Scan] - Director of Production Engineering**
 
@@ -60,6 +55,11 @@ Experience
       * Lead the effort for 3Scan to become officially recognized by ARIN
       * Acquire publically addressable /24 block of IPv4 space
       * Owned and operated BGP routing systems with two ISPs and AWS to route imagery into S3
+
+2015 - Present
+:    **[Flux Foundation] - Lead technologist**
+    
+    A small arts collective that builds large art, which is shown at Burning man and numerous festivals around the country
 
 10/2018 - 9/2019
 :   **[The Folly] - Electrical and Lighting lead**
