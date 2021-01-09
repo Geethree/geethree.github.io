@@ -28,4 +28,4 @@ googleAnalytics         = "UA-128762731-1"
 
 [[params.mainMenu]]
     text = "blahg"
-    url = "https://medium.com/@ger.spencer3"
+    link = "https://medium.com/@ger.spencer3"
