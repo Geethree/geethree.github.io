@@ -27,6 +27,5 @@ googleAnalytics         = "UA-128762731-1"
     text = "works"
 
 [[params.mainMenu]]
-    link = "/blahg"
     text = "blahg"
-
+    url = "https://medium.com/@ger.spencer3"

@@ -5,18 +5,15 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>gspencer_eng</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
   
   <style type="text/css">
-
+  
    
   body {
        
@@ -26,7 +23,7 @@
       background: #FFFFFF;
       padding: 10px 10px 10px 10px;
   }
-
+  
    
   h1 {
       font-size: 55px;
@@ -34,7 +31,7 @@
       text-align:center;
       margin-bottom:15px;
   }
-
+  
    
   h2 {
        
@@ -50,7 +47,7 @@
        
       background-color: #757575;
   }
-
+  
    
   dt {
       float: left;
@@ -64,23 +61,23 @@
       margin-top:0;
       margin-bottom:7px;
   }
-
+  
    
   blockquote {
       text-align: center
   }
-
+  
    
   a {
       text-decoration: none;
       color: darken($white, 20%);
   }
-
+  
    
   hr {
       color: #A6A6A6;
   }
-
+  
   table {
       width: 100%;
   }
@@ -91,7 +88,8 @@
 <hr />
 <blockquote>
 <p>Multi-dimensional engineering leader passionate about:<br />
-Automation, CI/CD, Community Building, Devops, Kubernetes and Networking</p>
+Automation, CI/CD, Community Building, Devops, Kubernetes and Networking<br />
+<a href="mailto:ger.spencer3@gmail.com">ger.spencer3@gmail.com</a> • +1-510-838-2327</p>
 </blockquote>
 <hr />
 <h2 id="education">Education</h2>
@@ -106,29 +104,57 @@ Automation, CI/CD, Community Building, Devops, Kubernetes and Networking</p>
 <dl>
 <dt>2019 - Present</dt>
 <dd><p><strong><a href="http://www.strateos.com" target="_blank">Strateos</a> - Director of Infrastructure</strong></p>
-<p>Facilitate designing, developing, implementing and operating the robotic drug discovery labs of the future.</p>
+<p>Designing, developing, implementing and operating the robotic cloud drug discovery labs of the future.</p>
 <ul>
-<li>Drove the Eng.Org’s impact by building community, providing a common voice, purpose and thinking beyond immediate responsibility</li>
-<li>Shifted operational mindsets from reactive to proactive by bridging legacy silo’d teams</li>
-<li>Actively worked with Product to strategically develop the Eng.Org’s infrastructure roadmap to meet future growth targets</li>
-<li>Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI/CD system</li>
-<li>Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes</li>
-<li>Provided mentorship and training across the teams with respect to: evolutionary architecture and infrastructure</li>
+<li>Actively worked with Product to strategically develop the Eng.Org’s infrastructure roadmap to meet future growth targets
+<ul>
+<li>One facility to four facilities across two continents</li>
+</ul></li>
+<li>Revamped legacy build systems:
+<ul>
+<li>Decreased build times by 13x and drastically increased the org’s feature velocity</li>
+</ul></li>
+<li>Bootstrapped a multi-account AWS configuration from scratch with full infrastructure-as-code (terraform)
+<ul>
+<li>Seemlessly assimulated legacy pre-merger AWS accounts, and transferred workloads between accounts and regions</li>
+</ul></li>
+<li>Lead multi-diplinary teams in converting legacy monolithic CI system(s) to a modern cloud native elastic CI system
+<ul>
+<li>Modern elastic Jenkins backed by full configuration-as-ccode and GitOps methodologies</li>
+</ul></li>
+<li>Lead an SRE team in shifting manual legacy bare metal deployments to fully automated CI/CD deployments to Kubernetes
+<ul>
+<li>Self-service and self-healing HA multi-cluster ArgoCD deployment</li>
+</ul></li>
+<li>Implemented, maintained and operated a cloud native observability platform comprised of: Prometheus, grafana, alertmanager, sumologic and pagerduty</li>
+<li>Implemented SSO via Okta for all mission-critical systems - from baremetal auth to internal apps to AWS to Eat Club</li>
+<li>Desgined and implemented a global transit system, by utilizing AWS transit gateways to:
+<ul>
+<li>Dynamically reconfigure the global network multi-region multi-cluster kubernetes footprint with local facilities via BGP peering</li>
+<li>Provide a secure intranet for employees across the country, in Singapore, France and contractors in India</li>
+</ul></li>
+<li>Provided mentorship and training across the teams with respect to: architecture, CI/CD, infrastructure and networking</li>
 </ul>
-</dd>
-<dt>2015 - Present</dt>
-<dd><p><strong><a href="http://www.fluxfoundation.org" target="_blank">Flux Foundation</a> - Lead technologist</strong></p>
-<p>A small arts collective that builds large art, which is shown at Burning man and numerous festivals around the country</p>
 </dd>
 <dt>2013 - 2019</dt>
 <dd><p><strong><a href="http://www.3scan.com" target="_blank">3Scan</a> - Director of Production Engineering</strong></p>
 <p>Oversaw a multi-disciplinary team of 15 - from hardware to software engineers, and biologists to product specialists - to develop a high-resolution/high-throughput 3D medical imaging system.</p>
 <ul>
-<li>Lead a team of software engineers to develop a system capable of ingesting 24GB/s of imagery</li>
-<li>Merged a facility with the AWS cloud by executing a build out with 40Gbps of leased fiber from AWS(us-west-2) into downtown SF</li>
-<li>Engineering project management from ideation to on-going maintenance</li>
-<li>Implemented Agile methodologies for both hardware and software products</li>
+<li>Lead a team of software engineers in designing, developing and implementing a system capable of ingesting 24GB/s of imagery
+<ul>
+<li>Redesigned the original storage pipeline from a massive bare metal Ceph deployment to a cloud native objectstore backeend that reached a max size of 3.8PB</li>
+</ul></li>
+<li>Merged a facility with the AWS cloud by executing a build out with 40Gbps of leased fiber from AWS(us-west-2) into downtown SF
+<ul>
+<li>Lead the effort for 3Scan to become officially recognized by ARIN</li>
+<li>Acquire publically addressable /24 block of IPv4 space</li>
+<li>Owned and operated BGP routing systems with two ISPs and AWS to route imagery into S3</li>
+</ul></li>
 </ul>
+</dd>
+<dt>2015 - Present</dt>
+<dd><p><strong><a href="http://www.fluxfoundation.org" target="_blank">Flux Foundation</a> - Lead technologist</strong></p>
+<p>A small arts collective that builds large art, which is shown at Burning man and numerous festivals around the country</p>
 </dd>
 <dt>10/2018 - 9/2019</dt>
 <dd><p><strong><a href="https://www.thefollybrc.com/" target="_blank">The Folly</a> - Electrical and Lighting lead</strong></p>
@@ -145,13 +171,6 @@ Automation, CI/CD, Community Building, Devops, Kubernetes and Networking</p>
 <li>Development of structures electrical schematic to CA Title 24 standards</li>
 <li>Lighting design: Custom PCB circuit boards, manufacturing and layout</li>
 <li>Custom software architecture and compute hardware to control 1200 addressable incandescents light bulbs</li>
-</ul>
-</dd>
-<dt>1/2018 - 9/2018</dt>
-<dd><p><strong><a href="http://www.temple2017.org/" target="_blank">Temple 2017</a> - Lighting lead</strong></p>
-<ul>
-<li>Development of structures electrical schematic to CA Title 24 standards</li>
-<li>Automated lighting controls allowed hands-free operation during the event</li>
 </ul>
 </dd>
 <dt>1/2016 - 10/2016</dt>
@@ -205,7 +224,7 @@ Automation, CI/CD, Community Building, Devops, Kubernetes and Networking</p>
 </dl>
 <hr />
 <blockquote>
-<p><a href="mailto:ger.spencer3@gmail.com" class="email">ger.spencer3@gmail.com</a> • +1-510-838-2327<br />
+<p><a href="mailto:ger.spencer3@gmail.com">ger.spencer3@gmail.com</a> • +1-510-838-2327<br />
 Berkeley, California, USA<br />
 <a href="https://github.com/Geethree" target="_blank">Github</a> • <a href="https://www.linkedin.com/in/gerald-spencer-bb2617123/" target="_blank">Linkedin</a></p>
 </blockquote>

@@ -76,8 +76,8 @@ Visions from the dust </description>
       
       <guid>/about/</guid>
       <description>Hi, I&#39;m Gerald!
-Professionally, I&#39;m an engineering leader engineer who is passionate about automation, culture and how to expand my own impact by empowering those that work with me.
-The past several years have been spent flexing my technical leadership skills at 3Scan, by leading a small interdisciplinary team ranging from hardware and software engineers to biologists in building out a digital pathology production line. Our work revolves around combining automation, robotics and machine learning to extract spatial data from tissue samples.</description>
+Professionally, I&#39;m an engineering leader who is passionate about automation, connected devices, culture and how to expand my own impact by empowering those that I work with.
+The past decade I have been spent flexing my technical leadership skills at 3Scan, by leading a small interdisciplinary team ranging from hardware and software engineers to biologists in building out a digital pathology production line. Our work revolved around combining automation, robotics and machine learning to extract spatial data from biological tissue samples.</description>
     </item>
     
     <item>
@@ -141,7 +141,7 @@ Involvement  Electro/Mechanical design  In order to pass both electricity and pr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/gspencer_eng/</guid>
-      <description>gspencer_eng  code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;} div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;} ul.task-list{list-style: none;} .display.math{display: block; text-align: center; margin: 0.5rem auto;}    /* Whole document */ body { /*font-family: &#34;didact Gothic&#34;, sans-serif;*/ font-family: &#34;Helvetica Neue&#34;, Helvetica, Arial, sans-serif; max-width: 800px; margin: auto; background: #FFFFFF; padding: 10px 10px 10px 10px; } /* Title of the resume */ h1 { font-size: 55px; color: #757575; text-align:center; margin-bottom:15px; } /* Titles of categories */ h2 { /* This is called &#34;</description>
+      <description>gspencer_eng code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;}    /* Whole document */ body { /*font-family: &#34;didact Gothic&#34;, sans-serif;*/ font-family: &#34;Helvetica Neue&#34;, Helvetica, Arial, sans-serif; max-width: 800px; margin: auto; background: #FFFFFF; padding: 10px 10px 10px 10px; } /* Title of the resume */ h1 { font-size: 55px; color: #757575; text-align:center; margin-bottom:15px; } /* Titles of categories */ h2 { /* This is called &#34;</description>
     </item>
     
   </channel>
