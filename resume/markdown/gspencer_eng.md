@@ -100,16 +100,19 @@ Software/System Design
 
 	Extensive experience with the following:
 
-    * **Build systems**: Bassel, Gradle, Lerna, Maven, Tox, Poetry
-    * **CI/CD**: ArgoCD, AWS CodePipeline, Buildkite, CircleCI, Jenkins, GoCD, Travis
+    * **Build systems**: Bazel, CMake, Gradle, Lerna, Maven, Tox, Poetry
+    * **CI/CD**: ArgoCD, AWS CodePipeline, Buildkite, CircleCI, Jenkins, Github Actions, GoCD, Tekton, Travis
     * **Cloud Infrastructure**: All things compute, networking, storage, security, AI/ML related to AWS or GCP
     * **Configuration Management**: Ansible, Puppet, Terraform
-    * **Containers/Micro-services**: Docker, Docker Swarm, ECS, Kubernetes, Mesos, Lambda, Kubeless, Severless
-    * **Development Environments**: AWS Cloud9, Docker, Intellij, Vagrant
-    * **IT/Networking**: Manage 3Scan's AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOs you name it!
+    * **Containers/Micro-services**: Docker, ECS, jib, Kubernetes, Lambda, KNative, Kubeless
+    * **Development Environments**: AWS Cloud9, Docker, Eclipse Che, Gitpod, Intellij, Vagrant
+    * **Edge Computing**: Akri, Balena Cloud, ioFog, AWS Greengrass, AWS IOT Core
+    * **Identity Management**: Active Directory, Okta
+    * **IT/Networking**: Managed 3Scan's AS, BGP peering with multiple ISPs and AWS. Cisco/JunoOS you name it!
     * **Languages**: Bash, C, C++, Groovy, Java, Javascript, .Net, Node, Python, Scala, Typescript
-    * **Monitoring/Telemetry**: Centralized logging, Elk, Grafana, Graphite, Prometheus, Sumologic, Splunk
-    * **Operating Systems**: At home in any flavor of linux and windows
+    * **Observability**: ELK, Grafana, Graphite, Fluentd, Fluent-bit, Prometheus, Sumologic, Splunk
+    * **Operating Systems**: At home in any flavor of linux, MacOS and windows
+    * **Service Mesh**: Consul, Istio, LinkerD
     * **Testing**: Junit, PyTest, ScalaTest
     * **Version Control**: Git, Github, Gitlab, Phabricator
 
